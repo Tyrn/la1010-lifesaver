@@ -7,7 +7,9 @@ $ yay -S pulseview-git
 - [Get](http://www.qdkingst.com/en/vis-old) KingstVIS_v3.5.4.tar.gz
 
 - Untar it
-
+```
+$ tar -zxf KingstVIS_v3.5.4.tar.gz
+```
 - To deploy firmware to `~/.local/share/sigrok-firmware/kingst` just run
 ```
 $ python fwextractor.py KingstVIS/KingstVIS
@@ -18,3 +20,9 @@ $ python fwextractor.py KingstVIS/KingstVIS
 ```
 
 Good luck!
+
+- In case you no longer need LA1010
+```
+$ yay -Rsn pulseview-git
+$ yay -S pulseview-git
+```
