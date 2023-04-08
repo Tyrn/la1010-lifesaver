@@ -2,7 +2,7 @@
 
 From [here](https://github.com/AlexUg/sigrok); takes a bit of effort.
 
-- [Get](http://www.qdkingst.com/en/vis-old) KingstVIS_v3.5.4.tar.gz
+- [Get](http://www.qdkingst.com/en/vis-old) KingstVIS_v3.5.4.tar.gz; if the firmware is already there, skip to *Install PulseView*
 
 - Untar it
 ```
