@@ -1,5 +1,7 @@
 ## An Arch Linux emergency procedure for Kingst LA1010 and PulseView
 
+From [here](https://github.com/AlexUg/sigrok); takes a bit of effort.
+
 - [Get](http://www.qdkingst.com/en/vis-old) KingstVIS_v3.5.4.tar.gz
 
 - Untar it
