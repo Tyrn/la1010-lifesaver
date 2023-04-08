@@ -20,7 +20,7 @@ $ yay -S pulseview-git
 ```
 $ yay -U libsigrok-git-0.2.1.r3900.g4002c5c7-1-x86_64.pkg.tar.zst
 ```
-- Plug in the LA1010 login analyzer
+- Plug in the LA1010 logic analyzer
 
 - Start PulseView
 
