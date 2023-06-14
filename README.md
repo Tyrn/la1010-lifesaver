@@ -20,6 +20,11 @@ $ yay -S pulseview-git
 ```
 $ yay -U libsigrok-git-0.2.1.r3900.g4002c5c7-1-x86_64.pkg.tar.zst
 ```
+- 2023-06-14 addition
+```
+$ yay -S python310
+$ sudo cp pulseview /usr/bin
+```
 - Plug in the LA1010 logic analyzer
 
 - Start PulseView
